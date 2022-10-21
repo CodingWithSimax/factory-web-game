@@ -1,0 +1,23 @@
+{
+  "name": "factory-web-game",
+  "version": "1.0.0",
+  "description": "Factorio-like WebGame",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodingWithSimax/factory-web-game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodingWithSimax/factory-web-game/issues"
+  },
+  "homepage": "https://github.com/CodingWithSimax/factory-web-game#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
